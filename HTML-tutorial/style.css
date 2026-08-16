@@ -4,4 +4,19 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Roboto", Sans-serif;
+}
+
+nav {
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 300px;
+}
+
+ul {
+  display: flex;
 }
